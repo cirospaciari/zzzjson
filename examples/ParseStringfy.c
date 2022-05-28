@@ -1,4 +1,4 @@
-#include "../libzzzjson.min.h"
+#include "libzzzjson.min.h"
 #include <stdio.h>
 
 
